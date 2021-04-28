@@ -1,16 +1,84 @@
-### Hi there 👋
+## Languages
 
-<!--
-**majudhu/majudhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Advanced
 
-Here are some ideas to get you started:
+HTML, CSS, JavaScript, PHP, C#, Dart, Regex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experienced
+
+C, Bash, Python, Java, SQL
+
+### Beginner
+
+C++, Perl, Kotlin, Swift, **Rust**, Assembly
+
+
+## Frameworks & Libraries
+
+### Advanced
+
+Flutter, Next.js, React, expressjs
+
+### Experienced
+
+.NET, Windows Forms, WPF, Ionic
+
+### Beginner
+
+Flask, JSP, Vue.js, Laravel, Android
+
+
+## Applications & Tools
+
+### Advanced
+
+SSH, Git, Wireguard, Linux (Debian, Fedora, Ubuntu, Arch), MySQL, MariaDB, NodeJs, VScode, Android Studio
+
+### Experienced
+
+Vim, PostgreSQL, MSSQL, SQLite, MongoDB, Nginx, Apache, Docker, GPG, Visual Studio
+
+### Beginner
+
+Xcode, Netbeans, Eclipse
+
+
+## Online Platforms & Services
+
+### Advanced
+
+Github, Vercel, Digitalocean, Firebase
+
+### Experienced
+
+AWS (ec2, beanstalk, lightsail, lambda, s3), Azure, Google Cloud, MongoDB Atlas
+
+### Beginner
+
+CircleCI, TravisCI
+
+
+## Protocols & Standards
+
+### Advanced
+
+HTTP, JSON
+
+### Experienced
+
+IP
+
+
+## Other applications
+
+### Advanced
+
+Adobe Photoshop, Adobe Illustrator, Microsoft Office Word
+
+### Experienced
+
+CorelDRAW, Microsoft Office Excel
+
+
+## Misc
+
