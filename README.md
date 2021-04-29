@@ -4,7 +4,7 @@
 
 ★★ C, Bash, Python, Java, SQL
 
-★ C++, Perl, Kotlin, Swift, **Rust**, Assembly
+★ **Rust**, C++, Perl, Kotlin, Swift, Go, Assembly
 
 
 ## Frameworks & Libraries
