@@ -44,17 +44,17 @@
 
 ***
 ### Social media profiles and links  
-[majudhu.co](majudhu.co)
-[Github](github.com/majudhu)
-[Twitter](twitter.com/majudhu)
-[LinkedIn](linkedin.com/in/majudhu)
-[Telegram](t.me/majudhu)
-[Reddit](reddit.com/u/majudhu)
-[Facebook](fb.me/majudhu)
-[Instagram](instagram.com/mmajudhuu)
-[Unsplash](unsplash.com/@majudhu)
-[Youtube](www.youtube.com/c/majudhu)
-[Spotify](open.spotify.com/user/214mvsleb7yslxr4ppuwbidya)
-[Steam](steamcommunity.com/id/majudhu)
+[majudhu.co](https://majudhu.co)
+[Github](https://github.com/majudhu)
+[Twitter](https://twitter.com/majudhu)
+[LinkedIn](https://linkedin.com/in/majudhu)
+[Telegram](https://t.me/majudhu)
+[Reddit](https://reddit.com/u/majudhu)
+[Facebook](https://fb.me/majudhu)
+[Instagram](https://instagram.com/mmajudhuu)
+[Unsplash](https://unsplash.com/@majudhu)
+[Youtube](https://www.youtube.com/c/majudhu)
+[Spotify](https://open.spotify.com/user/214mvsleb7yslxr4ppuwbidya)
+[Steam](https://steamcommunity.com/id/majudhu)
 
 *Enjoys travelling, cycling, football, sports, science, technology, socializing and counter-strike*
