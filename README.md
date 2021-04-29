@@ -52,6 +52,6 @@
 
 > Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt)
 
-### Loves open-source, functional style and Rust**
+# Loves open-source, functional style and Rust
 
-#### Hates object-oriented style and Java
+**Hates object-oriented style and Java**
