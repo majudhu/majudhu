@@ -62,11 +62,11 @@ CircleCI, TravisCI
 
 ### Advanced
 
-HTTP, JSON
+HTTP, JSON, REST API
 
 ### Experienced
 
-IP
+IP, DNS
 
 
 ## Other applications
@@ -82,3 +82,8 @@ CorelDRAW, Microsoft Office Excel
 
 ## Misc
 
+> Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt)
+
+> **Loves open-source, functional style and Rust
+
+> Hates object-oriented style and Java
