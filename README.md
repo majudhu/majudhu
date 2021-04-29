@@ -1,83 +1,51 @@
 ## Languages
 
-### Advanced
+★★★ HTML, CSS, JavaScript, PHP, C#, Dart, Regex
 
-HTML, CSS, JavaScript, PHP, C#, Dart, Regex
+★★ C, Bash, Python, Java, SQL
 
-### Experienced
-
-C, Bash, Python, Java, SQL
-
-### Beginner
-
-C++, Perl, Kotlin, Swift, **Rust**, Assembly
+★ C++, Perl, Kotlin, Swift, **Rust**, Assembly
 
 
 ## Frameworks & Libraries
 
-### Advanced
+★★★ Flutter, Next.js, React, expressjs
 
-Flutter, Next.js, React, expressjs
+★★ .NET, Windows Forms, WPF, Ionic
 
-### Experienced
-
-.NET, Windows Forms, WPF, Ionic
-
-### Beginner
-
-Flask, JSP, Vue.js, Laravel, Android
+★ Flask, JSP, Vue.js, Laravel, Android
 
 
 ## Applications & Tools
 
-### Advanced
+★★★ SSH, Git, Wireguard, Linux (Debian, Fedora, Ubuntu, Arch), MySQL, MariaDB, NodeJs, VScode, Android Studio
 
-SSH, Git, Wireguard, Linux (Debian, Fedora, Ubuntu, Arch), MySQL, MariaDB, NodeJs, VScode, Android Studio
+★★ Vim, PostgreSQL, MSSQL, SQLite, MongoDB, Nginx, Apache, Docker, GPG, Visual Studio
 
-### Experienced
-
-Vim, PostgreSQL, MSSQL, SQLite, MongoDB, Nginx, Apache, Docker, GPG, Visual Studio
-
-### Beginner
-
-Xcode, Netbeans, Eclipse
+★ Xcode, Netbeans, Eclipse
 
 
 ## Online Platforms & Services
 
-### Advanced
+★★★ Github, Vercel, Digitalocean, Firebase
 
-Github, Vercel, Digitalocean, Firebase
+★★ AWS (ec2, beanstalk, lightsail, lambda, s3), Azure, Google Cloud, MongoDB Atlas
 
-### Experienced
-
-AWS (ec2, beanstalk, lightsail, lambda, s3), Azure, Google Cloud, MongoDB Atlas
-
-### Beginner
-
-CircleCI, TravisCI
+★ CircleCI, TravisCI
 
 
 ## Protocols & Standards
 
-### Advanced
+★★★ HTTP, JSON, REST API
 
-HTTP, JSON, REST API
-
-### Experienced
-
-IP, DNS
+★★ IP, DNS
 
 
 ## Other applications
 
-### Advanced
+★★★ Adobe Photoshop, Adobe Illustrator, Microsoft Office Word
 
-Adobe Photoshop, Adobe Illustrator, Microsoft Office Word
-
-### Experienced
-
-CorelDRAW, Microsoft Office Excel
+★★ CorelDRAW, Microsoft Office Excel
 
 
 ## Misc
