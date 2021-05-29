@@ -26,7 +26,7 @@
 ★★★ Adobe Photoshop, Adobe Illustrator, Microsoft Office Word  
 ★★ CorelDRAW, Microsoft Office Excel  
 
-> Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt)
+> Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt, blockchain)
 
 ## Loves math, open-source, functional style and Rust
 
