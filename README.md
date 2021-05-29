@@ -39,7 +39,7 @@
     - Angular, Ionic  
 - 09/19 - 12/20 Software Developer, Sorting Company, Malé, Maldives  
     - C#, PHP, Dart, Flutter, AWS, Plesk, MSSQL, MySQL, Windows Forms, WPF, .NET  
-- 01-21 - Full-stack Web Developer, Excorp, Malé, Maldives  
+- 01/21 - Full-stack Web Developer, Excorp, Malé, Maldives  
     - JavaScript, React, NextJs, Mongoose, MongoDb  
 
 ***
