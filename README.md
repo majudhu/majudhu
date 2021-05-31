@@ -43,6 +43,9 @@
     - JavaScript, React, NextJs, Mongoose, MongoDb  
 
 ***
+
+***[DO CHECK OUT MY GISTS](https://gist.github.com/majudhu/)***
+
 ### Social media profiles and links  
 [majudhu.co](https://majudhu.co)
 [Github](https://github.com/majudhu)
