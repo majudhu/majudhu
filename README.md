@@ -28,9 +28,8 @@
 
 > Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt, blockchain)
 
-## Loves math, open-source, functional style and Rust
-
-**Hates object-oriented style and Java**
+<h2 align="center">Loves math, open-source, functional style and Rust</h2>
+<p align="center"><b>Hates object-oriented style and Java</b></p>
 
 ### Education and Work History  
 - 04/16 - 05/19 *dropout* B.Sc. Software Engineering, Asia Pacific University, KL, Malaysia  
