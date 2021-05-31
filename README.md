@@ -44,7 +44,7 @@
 
 ***
 
-***[DO CHECK OUT MY GISTS](https://gist.github.com/majudhu/)***
+<p align="center"><a href="https://gist.github.com/majudhu/"><b><i>DO CHECK OUT MY GISTS<i></b></a></p>
 
 ### Social media profiles and links  
 [majudhu.co](https://majudhu.co)
