@@ -4,8 +4,8 @@
 ★ **Rust**, C++, Perl, Kotlin, Swift, Go, Assembly, Haskell  
 
 ### Frameworks & Libraries  
-★★★ Flutter, Next.js, React, expressjs, Bootstrap
-★★ Vue.js, .NET, Windows Forms, WPF, Ionic, Mongoose, tailwindcss
+★★★ Flutter, Next.js, React, expressjs, Bootstrap  
+★★ Vue.js, .NET, Windows Forms, WPF, Ionic, Mongoose, tailwindcss  
 ★ Flask, JSP, Laravel, Android  
 
 ### Applications & Tools  
