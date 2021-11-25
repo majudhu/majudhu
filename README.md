@@ -4,8 +4,8 @@
 ★ **Rust**, C++, Perl, Kotlin, Swift, Go, Assembly, Haskell  
 
 ### Frameworks & Libraries  
-★★★ Flutter, Next.js, React, expressjs, Bootstrap  
-★★ Vue.js, .NET, Windows Forms, WPF, Ionic, Mongoose, tailwindcss  
+★★★ Flutter, Next.js, React, expressjs, Bootstrap, tailwindcss  
+★★ Vue.js, .NET, Windows Forms, WPF, Ionic, Mongoose  
 ★ Flask, JSP, Laravel, Android  
 
 ### Applications & Tools  
@@ -46,7 +46,10 @@
 <p align="center"><a href="https://gist.github.com/majudhu/"><b><i>DO CHECK OUT MY GISTS</i></b></a></p>
 
 ### Social media profiles and links  
-[majudhu.co](https://majudhu.co)
+[majudhu.co](https://majudhu.co) (Mirrors: 
+[Github](https://majudhu.github.io/majudhu.co/)
+[Vercel](https://majudhu.vercel.app)
+[Cloudflare](https://majudhu.pages.dev))
 [Github](https://github.com/majudhu)
 [Twitter](https://twitter.com/majudhu)
 [LinkedIn](https://linkedin.com/in/majudhu)
@@ -61,3 +64,5 @@
 [PGP Key](https://gist.github.com/majudhu/bf0052838f3a3b2da66c3450ca54b0af)
 
 *Enjoys travelling, cycling, football, sports, science, technology, socializing and counter-strike*
+
+#### Website mirrors  
