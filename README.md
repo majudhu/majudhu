@@ -64,5 +64,3 @@
 [PGP Key](https://gist.github.com/majudhu/bf0052838f3a3b2da66c3450ca54b0af)
 
 *Enjoys travelling, cycling, football, sports, science, technology, socializing and counter-strike*
-
-#### Website mirrors  
