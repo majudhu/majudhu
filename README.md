@@ -25,7 +25,7 @@
 ### Other Applications  
 ★★★ Adobe Photoshop, Adobe Illustrator, Microsoft Office Word  
 ★★ CorelDRAW, Microsoft Office Excel, Handbrake  
-* Figma, Adobe XD, Lunacy, Inkscape, GIMP  
+★ Figma, Adobe XD, Lunacy, Inkscape, GIMP  
 
 > Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt, blockchain)
 
