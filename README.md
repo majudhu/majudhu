@@ -10,11 +10,11 @@
 
 ### Applications & Tools  
 ★★★ SSH, Git, Wireguard, Linux (Debian, Fedora, Ubuntu, Arch), NodeJs, VScode, Docker +BuildKit, NGINX, Payload CMS, PM2  
-★★ Vim, PostgreSQL, MySQL, MariaDB, MSSQL, SQLite, MongoDB, Apache, Docker, GPG, Postman, Visual Studio, Android Studio  
+★★ Vim, PostgreSQL, MySQL, MariaDB, MSSQL, SQLite, Redis, MongoDB, Apache, Docker, GPG, Postman, Visual Studio, Android Studio  
 ★ Xcode, Netbeans, Eclipse  
 
 ### Online Platforms & Services  
-★★★ Github (Actions, Pages), Vercel, Fly.io, Digitalocean, Firebase, Plesk, Cloudflare, (Pages, Functions)  
+★★★ Github (Actions, Pages), Vercel, Fly.io, Digitalocean, Firebase, Plesk, Cloudflare (DNS, Pages, Functions)  
 ★★ AWS (ec2, beanstalk, lightsail, lambda, s3), Render, Azure, Google Cloud, MongoDB Atlas, Deno Deploy, AWS Flightcontrol  
 ★ CircleCI, TravisCI, Deno Deploy 
 
