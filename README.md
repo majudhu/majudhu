@@ -1,31 +1,31 @@
 ### Languages  
-★★★ HTML, CSS, JavaScript, PHP, C#, Dart, Regex  
-★★ C, Bash, Python, Java, SQL  
-★ **Rust**, C++, Perl, Kotlin, Swift, Go, Assembly, Haskell  
+★★★ HTML, CSS, JavaScript, Typescript, C#, Dart, Regex  
+★★ **Rust**, C, Bash, Python, Java, SQL, PHP  
+★ C++, Perl, Kotlin, Swift, Go, Assembly, Haskell  
 
 ### Frameworks & Libraries  
-★★★ Next, React, express, Bootstrap, tailwind  
-★★ Flutter, Vue, Remix, Astro, .NET, Windows Forms, WPF, Ionic, Mongoose  
-★ Svelte, Prisma, Solid, Flask, JSP, Laravel, Android  
+★★★ Next, React, express, Bootstrap, tailwind, Remix, RTK Query, Nuxt  
+★★ Flutter, Vue, Astro, .NET, Windows Forms, WPF, Ionic, Mongoose, Prisma  
+★ Svelte, Solid, Flask, JSP, Laravel, Android  
 
 ### Applications & Tools  
-★★★ SSH, Git, Wireguard, Linux (Debian, Fedora, Ubuntu, Arch), NodeJs, VScode, Android Studio  
-★★ Vim, PostgreSQL, MySQL, MariaDB, MSSQL, SQLite, MongoDB, Nginx, Apache, Docker, GPG, Visual Studio  
+★★★ SSH, Git, Wireguard, Linux (Debian, Fedora, Ubuntu, Arch), NodeJs, VScode, Docker +BuildKit, NGINX, Payload CMS, PM2  
+★★ Vim, PostgreSQL, MySQL, MariaDB, MSSQL, SQLite, MongoDB, Apache, Docker, GPG, Postman, Visual Studio, Android Studio  
 ★ Xcode, Netbeans, Eclipse  
 
 ### Online Platforms & Services  
-★★★ Github (Actions, Pages), Vercel, Fly.io, Digitalocean, Firebase, Plesk, Cloudflare  
-★★ AWS (ec2, beanstalk, lightsail, lambda, s3), Render, Azure, Google Cloud, MongoDB Atlas  
+★★★ Github (Actions, Pages), Vercel, Fly.io, Digitalocean, Firebase, Plesk, Cloudflare, (Pages, Functions)  
+★★ AWS (ec2, beanstalk, lightsail, lambda, s3), Render, Azure, Google Cloud, MongoDB Atlas, Deno Deploy, AWS Flightcontrol  
 ★ CircleCI, TravisCI, Deno Deploy 
 
 ### Protocols & Standards  
-★★★ HTTP, JSON, REST API  
+★★★ SSH, HTTP, JSON, REST API  
 ★★ IP, DNS  
 
 ### Other Applications  
 ★★★ Adobe Photoshop, Adobe Illustrator, Microsoft Office Word  
-★★ CorelDRAW, Microsoft Office Excel, Handbrake  
-★ Figma, Adobe XD, Lunacy, Inkscape, GIMP  
+★★ CorelDRAW, Microsoft Office Excel, Handbrake, Figma, Affinity Photo & Designer  
+★ Adobe XD, Lunacy, Inkscape, GIMP  
 
 > Familiar with math and basic cryptography (public key encryption and signing, message digest and hashing, key derivation, password hashing, forward secrecy, RSA, SHA, AES, EC, DH, PBKDF, bcrypt, blockchain)
 
@@ -34,9 +34,9 @@
 
 ### Education and Work History  
 - 04/22 - Front-end Web Developer, Tradenet Maldives Corp., Malé, Maldives  
-    - Typescript, React, Next, Tailwind    
+    - Typescript, React, Next, Tailwind, RTK Query, AWS Flightcontrol, Remix, Payload CMS  
 - 01/21 - Full-stack Web Developer, Excorp, Malé, Maldives  
-    - JavaScript, React, Next, Tailwind, Mongoose, MongoDb, Digitalocean, Nginx  
+    - JavaScript, React, Next, Tailwind, Mongoose, MongoDb, Digitalocean, Nginx, PM2, Ubuntu  
 - 09/19 - 12/20 Software Developer, Sorting Company, Malé, Maldives  
     - C#, PHP, Dart, Flutter, AWS, Plesk, MSSQL, MySQL, Windows Forms, WPF, .NET  
 - 02/18 - 05/18 Intern Developer, APIIT, KL, Malaysia  
